@@ -10,3 +10,4 @@ The arduino programming language is based on C++, as you will see upon
 examing the code; for instance, this language implements pointers in the 
 same way that C++ does.
 
+The code can be examined statically in any typical text editor, if you don't wish to emulate or procure an Arduino system. 
